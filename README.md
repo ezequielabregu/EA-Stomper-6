@@ -15,23 +15,26 @@ EA Stomper 6 is a MIDI controller project built using an Arduino Uno. It feature
 ## Requirements
 
 ### Hardware
+
 - Arduino Uno
 - 6 LEDs
 - 6 Push Buttons
 - Resistors (as needed for LEDs and buttons)
 
 ### Software
+
 - [PlatformIO](https://platformio.org/) (for building and uploading the code)
 - Arduino IDE (optional)
 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-repo/EA_Stomper_6.git
    cd EA_Stomper_6
 
-### Install PlatformIO:
+### Install PlatformIO
 
 Follow the PlatformIO installation guide.
 
@@ -61,7 +64,6 @@ Hold a button for more than 1 second to switch the MIDI channel.
 
 Use a MIDI-compatible software or hardware to test the MIDI messages.
 
-
 ### Troubleshooting
 
 Ensure the correct COM port is selected in PlatformIO.
@@ -69,4 +71,3 @@ Ensure the correct COM port is selected in PlatformIO.
 Verify the wiring of buttons and LEDs.
 
 Check the MIDI software for proper configuration.
-
