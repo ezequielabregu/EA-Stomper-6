@@ -2,6 +2,8 @@
 
 EA Stomper 6 is a MIDI controller project built using an Arduino Uno. It features six buttons and six LEDs, allowing users to send MIDI Control Change (CC) messages and toggle LED states. The project is designed for musicians and hobbyists who want to create a customizable MIDI controller.
 
+![Stomper6](/media/stomper6.jpeg)
+
 ## Features
 
 - **6 Buttons**: Each button sends a MIDI CC message when pressed.
